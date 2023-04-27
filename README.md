@@ -46,10 +46,10 @@
             </section>
             <img src="https://backoffice.algoritmika.org/uploads/2021/02/mobile-phone-1419275_1920_0_1613586010.jpg" width="960" height="270"/>
         </main>
-        <footer>
+        <footer class="promo">
             <a href=""><img src="https://backoffice.algoritmika.org/uploads/2021/02/icon-set-1142000_1280%201_0_1613586391.png" width="80px" height="80px"></a>
             <a href=""><img src="https://backoffice.algoritmika.org/uploads/2021/02/Group%201_0_1613586391.png" width="80px" height="80px"></a>
-            <a href=""><img src="https://backoffice.algoritmika.org/uploads/2021/02/instagram-3288419_1280%201_0_1613586391.png" width="100%" height="min-height="270px"></a>
+            <a href=""><img src="https://backoffice.algoritmika.org/uploads/2021/02/instagram-3288419_1280%201_0_1613586391.png" width="100%" height="270px"></a>
             <p><b>Напиши — получи<br/> промокод!</b></p> 
         </footer>
     </body>
