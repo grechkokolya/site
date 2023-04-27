@@ -150,3 +150,9 @@ footer p {
     font-size: 24px;
 background-color: chartreuse;
 }
+.promo{
+position:fixed;
+    right:5px;
+    top:225px;
+    width:100px;
+}
