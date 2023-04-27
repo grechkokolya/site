@@ -1,1 +1,152 @@
+body {
+    font-family: sans-serif;
+    background-color: skyblue;
+}
 
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center; 
+    background-color: gray;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+.button:hover{
+font-size: 50px;
+background-color: tomato;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav-link:first-child {
+    font-size: 24px;
+    color: red;
+    text-decoration: none;
+}
+.nav-link:first-child:hover{
+font-size: 40px;
+
+}
+.nav-link{
+font-size: 24px;
+    color: orange;
+    text-decoration: none;
+}
+.nav-link:hover{
+font-size: 40px;
+
+}
+.nav-link:last-child{
+font-size: 24px;
+    color:black;
+    text-decoration: none;
+}
+.nav-link:last-child:hover{
+font-size: 40px;
+
+}
+h1 {
+    text-align: center;
+    color: green;
+    font-size: 36px;
+    margin-top:15px ;
+    margin-bottom:15px ;
+    
+}
+h1 img{
+  width: 30px;  
+  height: 30px;
+}
+
+p {
+    font-size:24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px auto 0px auto;
+    display: flex;
+    max-width: 1100px;
+}
+
+article {
+    background-color: white;
+    padding:5 ;
+    width: 400px;
+    margin:10px ;
+}
+.article-but1 {
+    text-decoration: none;
+    background-color: brown;
+    color: black;
+    font-size: 24px;
+padding: 10px 75px 10px 75px;
+position:relative;
+text-align: center;
+display: inline-block;
+}
+.article-but2 {
+    text-decoration: none;
+    background-color: green;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    position: relative;
+    display:inline-block;
+}
+.article-but3{
+    text-decoration:none;
+    background-color: red;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+padding: 10px 75px 10px 75px;
+position:relative;
+display: inline-block;
+}
+.article-but4 {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+padding: 10px 75px 10px 75px;
+position:relative;
+display:inline-block;
+}
+
+
+
+
+footer {
+    padding:5px ;
+    display: flex;
+    background-color: chartreuse;
+}
+footer a {
+    margin-right:5px ;
+    display: block;
+    background-color: chartreuse;
+}
+
+footer p {
+    font-size: 24px;
+background-color: chartreuse;
+}
