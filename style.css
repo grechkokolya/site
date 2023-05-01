@@ -101,6 +101,10 @@ position:relative;
 text-align: center;
 display: inline-block;
 }
+.artcle-bat1:hover{
+background-color:yellow;
+    
+}
 .article-but2 {
     text-decoration: none;
     background-color: green;
@@ -110,6 +114,10 @@ display: inline-block;
     padding: 10px 75px 10px 75px;
     position: relative;
     display:inline-block;
+}
+.artcle-bat2:hover{
+background-color:skyblue;
+    
 }
 .article-but3{
     text-decoration:none;
@@ -121,6 +129,10 @@ padding: 10px 75px 10px 75px;
 position:relative;
 display: inline-block;
 }
+.artcle-bat3:hover{
+background-color:pink;
+    
+}
 .article-but4 {
     text-decoration: none;
     background-color: blueviolet;
@@ -131,7 +143,10 @@ padding: 10px 75px 10px 75px;
 position:relative;
 display:inline-block;
 }
-
+.artcle-bat4:hover{
+background-color:blue;
+    
+}
 
 
 
